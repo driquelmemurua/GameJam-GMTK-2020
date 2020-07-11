@@ -1,5 +1,5 @@
 # Bewitchethlon
-A **two player co-op game** where both of you are **phantoms** escaping from a tomb after stealing a body, where one haunts the body and goes through **plataforming avoiding obstacles** while the second phantom should try his best to help with his phantasmal power by playing a game of **tetris**. The tomb is of course haunted by the original owner of the body and tries to catch you, he can suddenly throw a thundershock forcing you both to **switch roles**. If the ghost catch you it's game over so better run.
+A **two player co-op game** where both of you are **phantoms** escaping from a tomb after stealing a pharaohs body, where one moves the corpse and goes through **plataforming avoiding obstacles** while the second phantom should try his best to succed on a game of **tetris** because that how minds works. The tomb its of course haunted by the original owner of the body and tries to catch you, he can throw thundershocks, forcing you both to **switch roles**. If the ghost catch you it's game over so better run. Also if you loose the tetris it's also game over. You win by getting to the end of the level.
 
 ## General
 ### Ectoplasm bar
@@ -10,17 +10,17 @@ It will hunt you both through the level, catching up speed as it goes. It will r
 
 ## Race
 ### Controls
-You move the character with both horizontal directional arrows on a 2d-plane, jump with the up arrow and drop down fast with the down arrow. You have two buttons for punching (punch 1 and punch 2) for both arms, and a dash button (also on air). You can mix up both punches for a mega punch, dash and punch for a charged punch and dash and down button for a slide. By pressing the slide and both punches with a filled up bar you do a super ghost dash, passing throw everything on a high speed.
+You move the character with both horizontal directional arrows on a 2d-plane, jump with the up arrow and drop down fast with the down arrow that you can also crouch. You have two buttons for punching (punch 1 and punch 2) for both arms, and a dash button (also on air). You can mix up both punches for a mega punch, dash and punch for a charged punch and dash and down button for a slide. By pressing the slide and both punches with a filled up ectoplasm bar you can perform a super ghost dash, passing throw everything on a high speed.
 
 ### Mechanics
-From the things you can find during the run are boobytraps on the floor triggering arrows, spikes, and boulders, enemies like flying beetles, snakes and spiders, mummies on sarcuphagose, doors to slam, chests and crates. Getting hit make random blocks fall on the tetris side. Killing enemies generates ectoplasm.
+From the things you can find during the run are boobytraps on the floor, triggering arrows, spikes, and boulders. Enemies like flying beetles, snakes and spiders and mummies on sarcuphagoses. You find various objects to destroy like doors, chests and crates. Getting hit make random blocks fall on the tetris side. Killing enemies generates ectoplasm.
 
 ## Tetris
 ### Controls
-You have all the classic controls from tetris, move from side to side, pull down, fast drop, left and right spin, and hold.
+You have all the modern controls from tetris, move from side to side, pull down, fast drop, left and right spin, and hold.
 
 ### Mechanics
-The better your tetris the most you fill up the ectoplasm bar, by pressing the down, left and right directions with the filled bar you clean up to 3/4 of the screen. If you loose on tetris, it's game over, and your head explodes.
+The better your tetris (lines destroyed) the most you fill up the ectoplasm bar, by pressing the down, left and right directions with the filled bar you clean up to 3/4 of the screen. If you loose on tetris, it's game over, and your head explodes.
 
 ## TodoList
 ### Sprites
@@ -170,4 +170,5 @@ The better your tetris the most you fill up the ectoplasm bar, by pressing the d
 ## Links
 ### Assets
 https://drive.google.com/drive/folders/1Cn_V4z-Nkm8FN30bzMl62MeeECpz7aDu?usp=sharing
-### Game code
+### Game code git (ask for invite)
+https://github.com/driquelmemurua/GameJam-GMTK-2020
