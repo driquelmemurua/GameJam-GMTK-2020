@@ -85,7 +85,7 @@ The better your tetris (lines destroyed) the most you fill up the ectoplasm bar,
   * Start Screen
   * Pause menu
 
-## Sound / Music
+### Sound / Music
 * Screen menu song
 * Pre start theme / tutorial
 * Gameplay theme (two versions that swap when players swap)
@@ -152,7 +152,7 @@ The better your tetris (lines destroyed) the most you fill up the ectoplasm bar,
   * Pause / Unpause SFX
   * Menu navigation SFX
   * Button click SFX
-* Programming
+### Programming
   * Main menu
   * Corpse controls
   * Tetris controls
